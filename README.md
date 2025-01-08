@@ -12,9 +12,6 @@
 
 # 📊 My Stats:
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkay-kmm&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkay-kmm&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<a href="https://cuthanh.com"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=jkay-kmm&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkay-kmm&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
 
 
