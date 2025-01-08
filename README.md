@@ -8,7 +8,7 @@
     -  progressive
     -  lowkey
     -  healthy
-    - introvert
+    -  introvert
 
 # 📊 My Stats:
 
