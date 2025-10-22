@@ -12,6 +12,8 @@
 
 # 📊 My Stats:
 
-<a href="https://cuthanh.com"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=jkay-kmm&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkay-kmm&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkay-kmm&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+
+[MyCV](https://github.com/jkay-kmm/jkay-kmm/blob/main/Fresher_Flutter_Developer.pdf)
 
 
